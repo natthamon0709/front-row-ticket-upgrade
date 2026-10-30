@@ -1,5 +1,15 @@
 # Front Row Ticket Upgrade Challenge
 
+ระบบสุ่มเลือกแฟนเพลงเพื่ออัปเกรดเป็นตั๋วแถวหน้า (Front Row) แบบโปร่งใส ยุติธรรม ป้องกันคนปั๊มหลายไอดี และประมวลผลข้อมูลระดับแสนคนได้ลื่นไหลบนโน้ตบุ๊กทั่วไป
+
+---
+
+## 🌐 Live Demo & Repository
+- **Live Demo บน Vercel:** [https://front-row-ticket-upgrade.vercel.app](https://front-row-ticket-upgrade.vercel.app)
+- **GitHub Repository:** [https://github.com/natthamon0709/front-row-ticket-upgrade](https://github.com/natthamon0709/front-row-ticket-upgrade)
+
+---
+
 ## วิธีเปิดใช้งานและทดสอบ (Quick Start)
 
 ### สิ่งที่ต้องมีในเครื่อง
